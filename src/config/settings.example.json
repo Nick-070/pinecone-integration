@@ -1,0 +1,10 @@
+{
+  "pinecone": {
+    "apiKey": "YOUR_API_KEY",
+    "environment": "us-east1-gcp"
+  },
+  "chunking": {
+    "enabled": true,
+    "size": 300
+  }
+}
